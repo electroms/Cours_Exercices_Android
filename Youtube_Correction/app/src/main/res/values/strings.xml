@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBestYoutube</string>
+    <string name="hint_titre">Entrez un titre</string>
+    <string name="hint_description">Entrez une description</string>
+    <string name="hint_url">Entrez une url</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+</resources>
